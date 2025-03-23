@@ -1,0 +1,30 @@
+{
+  "title": "我的导航页",
+  "categories": [
+    {
+      "title": "个人服务",
+      "items": [
+        {
+          "name": "博客",
+          "url": "https://www.forserein.cc",
+          "icon": "🌐"
+        },
+        {
+          "name": "网盘",
+          "url": "https://wangpan.forserein.cc",
+          "icon": "📁"
+        },
+        {
+          "name": "音乐",
+          "url": "https://music.forserein.cc",
+          "icon": "🎵"
+        },
+        {
+          "name": "视频",
+          "url": "https://video.forserein.cc",
+          "icon": "🎬"
+        }
+      ]
+    }
+  ]
+}
